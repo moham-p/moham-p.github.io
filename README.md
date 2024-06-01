@@ -2,9 +2,9 @@ Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/
 
 #### I am a software engineer who takes full ownership of building solutions and diving deep into technical complexities. I am eager to leverage my experience to make a significant impact on team success.
 
-## Tech Overview
+<br />
 
-|||
+|                          | Technologies                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **Programming languages**| Java, Kotlin, JavaScript, Python                                             |
 | **Web**                  | Spring MVC, JAX-RS, Javalin, Express, Flask                                  |
