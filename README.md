@@ -4,7 +4,7 @@ Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/
 
 ## Tech Overview
 
-|                          |                                                                              |
+|||
 |--------------------------|------------------------------------------------------------------------------|
 | **Programming languages**| Java, Kotlin, JavaScript, Python                                             |
 | **Web**                  | Spring MVC, JAX-RS, Javalin, Express, Flask                                  |
