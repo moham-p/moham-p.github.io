@@ -10,8 +10,10 @@ Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/
 | **Web**                  | Spring MVC, JAX-RS, Javalin, Express, Flask                                  |
 | **Cloud**                | AWS (ECS, Lambda, CloudFormation, DynamoDB, EMR, SageMaker, Glue, etc)       |
 | **Big Data**             | Hadoop, Spark                                                                |
-| **Search**               | Apache Lucene, Solr, Elasticsearch                                           |
 | **DevOps**               | Docker, Kubernetes, Terraform                                                |
+| **Data**                 | JDBC, JPA, Spring Data                                                       |
+| **Search**               | Apache Lucene, Solr, Elasticsearch                                           |
+
 
 ## Experience
 
