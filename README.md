@@ -20,12 +20,26 @@ Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/
 ### [Mapbox](https://www.mapbox.com)
 
 - **[Static Images API](https://docs.mapbox.com/api/maps/static-images)**: It serves more than 6K requests per second including customers like **Strava** and **Yahoo Japan** weather. To have a successful rendered image as response we leveraged node.js native addons to use [Mapbox GL](https://docs.mapbox.com/help/glossary/mapbox-gl/) native renderer as part of our HTTP service. Moreover, we needed to integrate with upstream services such as [vector tiles](https://docs.mapbox.com/api/maps/vector-tiles/), and [raster tiles](https://docs.mapbox.com/api/maps/raster-tiles/).
+
+
 - **AWS S3 Optimization**: Originally, we stored tiles on S3, partitioned by date. Although this method was efficient, it posed challenges when we needed to delete tiles associated with inactive customers. To address this, we decided to reorganize our data, partitioning it by account ID instead of date. I utilized an [AWS Glue ETL](https://docs.aws.amazon.com/prescriptive-guidance/latest/serverless-etl-aws-glue/aws-glue-etl.html) job to establish a pipeline that facilitated this reformatting, streamlining the process for better management and cost efficiency.
+
+
 - **ECS Tasks Provisioning**: Design a solution to provision additional temporary [ECS tasks](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html) in response. In services deployed on Fargate Spot, there is always a chance of capacity interruptions. AWS initiates a Spot interruption when it needs to reclaim the Spot capacity. After this interrupt, the application is granted a 120-second window to perform a graceful shutdown. If the service scheduler is unable to place a new task due to the unavailability of Fargate Spot capacity, then the “Spot interruption” will lead to a task placement failure that potentially can affect the service availability.
+
+
 - **Semantic tiles API**: Provide location API for [Square Enix](https://www.square-enix.com/) which is used in the [Dragon Quest](https://dragonquest.square-enix-games.com/xi/en-us/) game. Here we served our vector tiles for some specific tileset sources to extract some features that are used in the game.
+
+
 - **[Geocoding API](https://docs.mapbox.com/api/search/geocoding/) Enhancement**: Enhanced API by sharding the search index based on request category.
+
+
 - **[Tiling Service](https://docs.mapbox.com/mapbox-tiling-service/guides/)**: Made the service highly available by designing replication and failover strategies. Storing tiles in multiple regions and having a failover mechanism makes it possible to read and write tilesets during a regional S3 outage.
+
+
 - **Atlas Security Updates**: Revived [Atlas](https://www.mapbox.com/atlas) with major security updates for customers like [USAF](https://www.airforce.com/). Atlas supports Docker Compose, a tool for defining and running multi-container Docker applications. Atlas for Docker Compose lets customers run Atlas on a single host.
+
+
 - **Site Reliability Engineering**: Actively participated in the on-call rotation, assuming Site Reliability Engineering (SRE) responsibilities for over ten production services. This role required me to ensure the high availability, performance, and resilience of our services, which are critical in a high-stakes production environment.
 
 ### [F-Secure](https://www.f-secure.com/en)
@@ -39,6 +53,8 @@ Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/
 ### [Bankify](https://bankify.io/)
 
 - **Invoice Barcode Scanner**: Developed primary revenue-generating service and consulted on integrating data mining techniques into the automated savings API.
+
+
 - **Recommendation Engine**: Designed an engine on top of extracted data from receipt images.
 
 ### [Parsian Insurance](https://parsianinsurance.ir/fa-IR/parsianinsurance/1/page/%D8%AE%D8%A7%D9%86%D9%87)
