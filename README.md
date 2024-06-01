@@ -1,16 +1,17 @@
 Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/)
 
-**I am a software engineer who takes full ownership of building solutions and diving deep into technical complexities. I am eager to leverage my experience to make a significant impact on team success.**
+#### I am a software engineer who takes full ownership of building solutions and diving deep into technical complexities. I am eager to leverage my experience to make a significant impact on team success.
 
 ## Tech Overview
+
 |                          |                                                                              |
 |--------------------------|------------------------------------------------------------------------------|
-| **Programming languages**| Java, Kotlin, JavaScript, Python                                              |
-| **Web**                  | Spring MVC, JAX-RS, Javalin, Express, Flask                                   |
+| **Programming languages**| Java, Kotlin, JavaScript, Python                                             |
+| **Web**                  | Spring MVC, JAX-RS, Javalin, Express, Flask                                  |
 | **Cloud**                | AWS (ECS, Lambda, CloudFormation, DynamoDB, EMR, SageMaker, Glue, etc)       |
-| **Big Data**             | Hadoop, Spark                                                                 |
-| **Search**               | Apache Lucene, Solr, Elasticsearch                                            |
-| **DevOps**               | Docker, Kubernetes, Terraform                                                 |
+| **Big Data**             | Hadoop, Spark                                                                |
+| **Search**               | Apache Lucene, Solr, Elasticsearch                                           |
+| **DevOps**               | Docker, Kubernetes, Terraform                                                |
 
 ## Experience
 
