@@ -1,5 +1,3 @@
-# Moham Pandi
-
 Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/)
 
 
