@@ -1,5 +1,5 @@
 Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/)
-![moham.jpeg](moham.jpeg)
+
 #### I am a software engineer who takes full ownership of building solutions and diving deep into technical complexities. I am eager to leverage my experience to make a significant impact on team success.
 
 <br />
