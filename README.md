@@ -1,4 +1,4 @@
-Espoo, Finland | [moham.info](https://moham.info) | me@moham.info | [LinkedIn](https://www.linkedin.com/in/mhpandi/)
+Espoo, Finland / [moham.info](https://moham.info) / [LinkedIn](https://www.linkedin.com/in/mhpandi/) / me@moham.info / moham.pandi@gmail.com 
 
 #### I am a software engineer who takes full ownership of building solutions and diving deep into technical complexities. I am eager to leverage my experience to make a significant impact on team success.
 
