@@ -92,6 +92,6 @@ Espoo, Finland / me@moham.info / [LinkedIn](https://www.linkedin.com/in/mhpandi/
 
 - **Master's degree in Artificial Intelligence and Robotics** (Iran University of Science and Technology)
   - Thesis: [A Novel Similarity Measure for Sequence Data](https://www.researchgate.net/publication/236848462_A_Novel_Similarity_Measure_for_Sequence_Data)
-  - Publication: [NDVI Optimization Using Genetic Algorithm](https://www.semanticscholar.org/paper/NDVI-Optimization-Using-Genetic-Algorithm-Kabiri-Pandi/b6c87aea6b1ffd7c3ca9468df43e0d706ac057b6)
+  - Publication: [NDVI Optimization Using Genetic Algorithm](https://ieeexplore.ieee.org/document/6121609)
 
 - **Bachelor's degree in Software Engineering** (Sharif University of Technology)
