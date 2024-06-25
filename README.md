@@ -1,24 +1,23 @@
 Espoo, Finland / [moham.info](https://moham.info) / [LinkedIn](https://www.linkedin.com/in/mhpandi/) / me@moham.info / moham.pandi@gmail.com 
 
-#### I am a software engineer who takes full ownership of building solutions and diving deep into technical complexities. I am eager to leverage my experience to make a significant impact on team success.
+#### I am a software engineer specializing in Java backend development with a proven track record in API development. I possess a strong DevOps mindset and am eager to expand my knowledge into frontend development.
 
 <br />
 
 |                           | Technologies                                                           |
 |---------------------------|------------------------------------------------------------------------|
-| **Programming languages** | Java, Kotlin, JavaScript, Python                                       |
-| **Web**                   | Spring MVC, JAX-RS, Javalin, Express, Flask                            |
+| **Programming languages** | Java, JavaScript (TypeScript), Python                                  |
+| **Web**                   | Spring MVC, JAX-RS, Express, Flask                                     |
+| **Frameworkds**           | Spring                                                                 |
 | **Cloud**                 | AWS (ECS, Lambda, CloudFormation, DynamoDB, EMR, SageMaker, Glue, etc) |
-| **Big Data**              | Hadoop, Spark                                                          |
-| **DevOps**                | Docker, Kubernetes, CloudFormation                                     |
-| **Data**                  | JDBC, JPA, Spring Data                                                 |
-| **Search**                | Apache Lucene, Solr, Elasticsearch                                     |
-| **UI**                    | GWT, JSF, Java Swing                                                   |
+| **Big Data**              | Spark, Kafka                                                           |
+| **DevOps**                | Docker, Kubernetes, CloudFormation, Terraform                          |
 
 
 ## Experience
 
 ### [Mapbox](https://www.mapbox.com)
+#### Senior Backend Engineer (Feb 2022 - May 2024)
 
 - **[Static Images API](https://docs.mapbox.com/api/maps/static-images)**: It serves more than 6K requests per second including customers like **Strava** and **Yahoo Japan** weather. To have a successful rendered image as response we leveraged node.js native addons to use [Mapbox GL](https://docs.mapbox.com/help/glossary/mapbox-gl/) native renderer as part of our HTTP service. Moreover, we needed to integrate with upstream services such as [vector tiles](https://docs.mapbox.com/api/maps/vector-tiles/), and [raster tiles](https://docs.mapbox.com/api/maps/raster-tiles/).
 
@@ -44,6 +43,8 @@ Espoo, Finland / [moham.info](https://moham.info) / [LinkedIn](https://www.linke
 - **Site Reliability Engineering**: Actively participated in the on-call rotation, assuming Site Reliability Engineering (SRE) responsibilities for over ten production services. This role required me to ensure the high availability, performance, and resilience of our services, which are critical in a high-stakes production environment.
 
 ### [F-Secure](https://www.f-secure.com/en)
+#### Senior Software Engineer (Nov 2019 - Jan 2022)
+
 
 - **Cloudify Device Registry Service**: Developed the backend for SENSE-enabled routers, integrating security features into the router by monitoring network traffic. Components included:
   - Pairing service for SENSE mobile app registration
@@ -52,6 +53,7 @@ Espoo, Finland / [moham.info](https://moham.info) / [LinkedIn](https://www.linke
   - User profiles and feature management
 
 ### [Bankify](https://bankify.io/)
+#### Senior Data Scientist (Sep 2018 - Oct 2019)
 
 - **Invoice Barcode Scanner**: Developed primary revenue-generating service and consulted on integrating data mining techniques into the automated savings API.
 
@@ -59,6 +61,8 @@ Espoo, Finland / [moham.info](https://moham.info) / [LinkedIn](https://www.linke
 - **Recommendation Engine**: Designed an engine on top of extracted data from receipt images.
 
 ### [Parsian Insurance](https://parsianinsurance.ir/fa-IR/parsianinsurance/1/page/%D8%AE%D8%A7%D9%86%D9%87)
+#### Lead Developer (May 2015 - Aug 2018)
+
 
 - **Backend Service Development**: Developed backend service for life insurance offering and proposed an end-to-end solution for replacing the legacy Personal Accident Insurance system. Tasks included:
   - Designing an end-to-end architecture
