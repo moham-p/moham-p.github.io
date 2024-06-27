@@ -1,6 +1,6 @@
-Espoo, Finland | moham.pandi@gmail.com 
+Espoo, Finland / moham.pandi@gmail.com 
 
-I am a software engineer with professional experience in both backend and frontend development. Throughout most of my career, I have specialized in **Java**, but I also have over 3 years of experience in **JavaScript**. I have a proven track record in API development and possess a strong DevOps mindset, with experience in **Kubernetes** and **Terraform**. Additionally, I have worked with big data technologies such as **Kafka** for stream processing and **Spark** for batch processing. My knowledge of **React** enables me to develop across the full technology stack.
+I have specialized in **Java**, but I also have over 3 years of experience in **JavaScript**. I have a proven track record in **API development** and possess a strong **DevOps** mindset, with experience in **Kubernetes** and **Terraform**. Additionally, I have worked with technologies such as **Kafka** for stream processing and **Spark** for batch processing. My knowledge of **React** enables me to develop across the full technology stack.
 
 
 
