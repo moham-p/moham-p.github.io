@@ -1,6 +1,6 @@
-Espoo, Finland / moham.pandi@gmail.com 
+Espoo, Finland | moham.pandi@gmail.com 
 
-#### I am a software engineer with professional experience in both backend and frontend development. Throughout most of my career, I have specialized in **Java**, but I also have over 3 years of experience in **JavaScript**. I have a proven track record in API development and possess a strong DevOps mindset, with experience in **Kubernetes** and **Terraform**. Additionally, I have worked with big data technologies such as **Kafka** for stream processing and **Spark** for batch processing. My knowledge of **React** enables me to develop across the full technology stack.
+I am a software engineer with professional experience in both backend and frontend development. Throughout most of my career, I have specialized in **Java**, but I also have over 3 years of experience in **JavaScript**. I have a proven track record in API development and possess a strong DevOps mindset, with experience in **Kubernetes** and **Terraform**. Additionally, I have worked with big data technologies such as **Kafka** for stream processing and **Spark** for batch processing. My knowledge of **React** enables me to develop across the full technology stack.
 
 
 
@@ -8,7 +8,7 @@ Espoo, Finland / moham.pandi@gmail.com
 
 ### [Mapbox](https://www.mapbox.com)
 #### Senior Backend Engineer (Feb 2022 - May 2024)
-#### `Node.js` | `Spark (AWS EMR)` | `Kubernetes (AWS EKS)`
+`Node.js` | `Spark (AWS EMR)` | `Kubernetes (AWS EKS)`
 
 - **[Static Images API](https://docs.mapbox.com/api/maps/static-images)**: It serves more than 6K requests per second including customers like **Strava** and **Yahoo Japan** weather. To have a successful rendered image as response we leveraged node.js native addons to use [Mapbox GL](https://docs.mapbox.com/help/glossary/mapbox-gl/) native renderer as part of our HTTP service. Moreover, we needed to integrate with upstream services such as [vector tiles](https://docs.mapbox.com/api/maps/vector-tiles/), and [raster tiles](https://docs.mapbox.com/api/maps/raster-tiles/).
 
@@ -35,7 +35,7 @@ Espoo, Finland / moham.pandi@gmail.com
 
 ### [F-Secure](https://www.f-secure.com/en)
 #### Senior Software Engineer (Nov 2019 - Jan 2022)
-#### `Java` | `AWS (Lambda, CloudFormation, DynamoDB, etc.)`
+`Java` | `AWS (Lambda, CloudFormation, DynamoDB, etc.)`
 
 
 - **Cloudify Device Registry Service**: Developed the backend for SENSE-enabled routers, integrating security features into the router by monitoring network traffic. Components included:
@@ -46,7 +46,7 @@ Espoo, Finland / moham.pandi@gmail.com
 
 ### [Bankify](https://bankify.io/)
 #### Senior Developer (Sep 2018 - Oct 2019)
-#### `Java` | `React`
+`Java` | `React`
 
 - **Invoice Barcode Scanner**: Developed primary revenue-generating service and consulted on integrating data mining techniques into the automated savings API.
 
@@ -55,7 +55,7 @@ Espoo, Finland / moham.pandi@gmail.com
 
 ### [Parsian Insurance](https://parsianinsurance.ir/fa-IR/parsianinsurance/1/page/%D8%AE%D8%A7%D9%86%D9%87)
 #### Lead Developer (May 2015 - Aug 2018)
-#### `Java` | `Kafka`
+`Java` | `Kafka`
 
 
 - **Backend Service Development**: Developed backend service for life insurance offering and proposed an end-to-end solution for replacing the legacy Personal Accident Insurance system. Tasks included:
@@ -65,7 +65,7 @@ Espoo, Finland / moham.pandi@gmail.com
   - Developing back-end module
 
 ### [Mehad](https://mehad.ir/)
-#### `Java`
+`Java`
 
 - **Software Interface for Car ECUs**: Implemented software connecting car ECUs to PCs, enhancing efficiency of diagnostic tool operators. Contributions to the flagship product, iDiag, included:
   - Developing a software interface for ECU-PC connections
@@ -73,7 +73,7 @@ Espoo, Finland / moham.pandi@gmail.com
   - Refactoring production software for customized distribution packages
 
 ### Persian Search Engine
-#### `Java` | `Hadoop`
+`Java` | `Hadoop`
 
 - **Graduate Research Project**: Joined "ranker" team to implement a search engine, focusing on full-text search and big data challenges. Key responsibilities included:
   - Modelling documents in vector space
@@ -82,7 +82,7 @@ Espoo, Finland / moham.pandi@gmail.com
   - Implementing ranking algorithm for user queries
 
 ### [Douran Group](https://www.linkedin.com/company/douran-group/?originalSubdomain=ir)
-#### `Java`
+`Java`
 
 - **Junior Software Engineer**: Collaborated on the human resources module of the Douran ERP system and developed database migration tools. Contributions included:
   - Developing the ERP human resource module
