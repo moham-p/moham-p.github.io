@@ -1,6 +1,6 @@
 Espoo, Finland / moham.pandi@gmail.com 
 
-I am specialized in **Java/Spring** with 12+ years of work experience. I have a proven track record in **API development** and possess a strong **DevOps** mindset, with experience in **AWS CloudFormation** Additionally, I have worked with technologies such as **Kafka** and Spark for stream/batch processing.
+I specialize in **Java/Spring** with over 12 years of experience. I have a proven track record in **API development** and a strong **DevOps** mindset, with hands-on experience in **Kubernetes** and **AWS CloudFormation**. Furthermore, I have worked with **Kafka** and **Spark** for both stream and batch processing.
 
 ## Experience
 
