@@ -1,8 +1,6 @@
 Espoo, Finland / moham.pandi@gmail.com 
 
-I have specialized in **Java**, but I also have over 3 years of experience in **JavaScript**. I have a proven track record in **API development** and possess a strong **DevOps** mindset, with experience in **Kubernetes** and **Terraform**. Additionally, I have worked with technologies such as **Kafka** for stream processing and **Spark** for batch processing. My knowledge of **React** enables me to develop across the full technology stack.
-
-
+I specialize in **Java/Spring** with over 12 years of experience. I have a proven track record in **API development** and a strong **DevOps** mindset, with hands-on experience in **Kubernetes** and **AWS CloudFormation**. Furthermore, I have worked with **Kafka** and **Spark** for both stream and batch processing.
 
 ## Experience
 
